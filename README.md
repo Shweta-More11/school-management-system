@@ -12,9 +12,9 @@ Developed a SQL-based backend for managing student, teacher, course, and grade i
    - Insert sample data into each table, such as student and teacher details, course offerings, and enrollment records.
 
 3. **Question Explored**
-   Q1. --Retrieve All Students' Names and Grade Levels--
-   Q2. --Get Unique List of Courses--
-   Q3.--Find All Teachers Hired Before 2020--
+   **Q1. --Retrieve All Students' Names and Grade Levels--**
+   **Q2. --Get Unique List of Courses--**
+   **Q3.--Find All Teachers Hired Before 2020--**
    Q4. --Retrieve All Students Enrolled in a Specific Course (e.g., 'Algebra')--
    Q5. --Count the Number of Students Enrolled in Each Course--
    Q6.--Find All Students with Grades 'A' or 'B'--
