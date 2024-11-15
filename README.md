@@ -11,22 +11,21 @@ Developed a SQL-based backend for managing student, teacher, course, and grade i
 2. **Data Insertion**
    - Insert sample data into each table, such as student and teacher details, course offerings, and enrollment records.
 
-3. **Question Explored**
-   
-•  Retrieve All Students' Names and Grade Levels
-•	Get Unique List of Courses
-•	Find All Teachers Hired Before 2020
-•	Retrieve All Students Enrolled in a Specific Course (e.g., 'Algebra')
-•	Count the Number of Students Enrolled in Each Course
-•	Find All Students with Grades 'A' or 'B'
-•	Modify the `Status` of a Student’s Enrollment to 'Completed' for a Specific Course
-•	Add a Constraint to Ensure Only Grades 'A' to 'D' Can Be Inserted in the `Grades` Table
-•	Find Students Who Are in Grade 10 and Enrolled After 2020
-•	Retrieve Courses with More Than 3 Credits
-•	Search for Teachers Whose First Name Starts with 'A'
-•	Find Students with Email IDs Containing 'example'
-•	Count the Number of Students Enrolled in Each Course (Using HAVING Clause)
-•	Retrieve Students Enrolled in 'Algebra' Using a Join
+3. **Question Explored**   
+•  **Retrieve All Students' Names and Grade Levels**
+•	**Get Unique List of Courses**
+•	**Find All Teachers Hired Before 2020**
+•	**Retrieve All Students Enrolled in a Specific Course (e.g., 'Algebra')**
+•	**Count the Number of Students Enrolled in Each Course**
+•	**Find All Students with Grades 'A' or 'B'**
+•	**Modify the `Status` of a Student’s Enrollment to 'Completed' for a Specific Course**
+•	**Add a Constraint to Ensure Only Grades 'A' to 'D' Can Be Inserted in the `Grades` Table**
+•	**Find Students Who Are in Grade 10 and Enrolled After 2020**
+•	**Retrieve Courses with More Than 3 Credits**
+•	**Search for Teachers Whose First Name Starts with 'A'**
+•	**Find Students with Email IDs Containing 'example'**
+•	**Count the Number of Students Enrolled in Each Course (Using HAVING Clause)**
+•	**Retrieve Students Enrolled in 'Algebra' Using a Join**
 
 
 **Project Insights**:
